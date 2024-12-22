@@ -9,7 +9,7 @@ class MyCalc extends WindowAdapter implements ActionListener{
     double num1,num2,check;
 
     MyCalc(){
-        f= new Frame("MY CALCULATOR");
+        f= new Frame("LYLIO CALCULATOR");
 // INSTANTIATING COMPONENETS
         l1=new Label();
         l1.setBackground(Color.LIGHT_GRAY);
